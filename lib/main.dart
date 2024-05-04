@@ -6,7 +6,6 @@ Future<void> main() async {
   /*garantiza que los widgets de Flutter estén listos
   para su uso antes de que la aplicación continúe su ejecución.*/
   WidgetsFlutterBinding.ensureInitialized();
-
   //Crea DB
   await initializeDatabase();
   await getRoots();
