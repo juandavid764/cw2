@@ -13,7 +13,7 @@ class PasswordPage extends StatefulWidget {
 
 class _PasswordPageState extends State<PasswordPage> {
   final TextEditingController _passwordController = TextEditingController();
-  final String _correctPassword = 'Haroldo2017'; // Contraseña predefinida
+  final String _correctPassword = '1234'; // Contraseña predefinida
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -27,10 +27,6 @@ class _PasswordPageState extends State<PasswordPage> {
               MaterialPageRoute(builder: (context) => const HomeScreeen()),
               (route) => false,
             );
-            // Aquí puedes definir la acción que deseas que ocurra
-            // al presionar el botón de volver en el AppBar
-            // Por ejemplo, para navegar a la pantalla anterior, puedes usar:
-            // Navigator.of(context).pop();
           },
         ),
       ),
