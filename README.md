@@ -6,10 +6,10 @@ Es una aplicación móvil que permite tomar pedidos de manera ágil, imprimir co
 
 ## Capturas de pantalla
 
-<img src="assets/Screenshots/img1.jpg" alt="Captura de pantalla 1" width="400"/>
-![Captura de pantalla 1](assets/Screenshots/img2.jpg)
-![Captura de pantalla 1](assets/Screenshots/img3.jpg)
-![Captura de pantalla 1](assets/Screenshots/img4.jpg)
+<img src="assets/Screenshots/img1.jpg" alt="Captura de pantalla 1" width="200"/>
+<img src="assets/Screenshots/img1.jpg" alt="Captura de pantalla 2" width="200"/>
+<img src="assets/Screenshots/img1.jpg" alt="Captura de pantalla 3" width="200"/>
+<img src="assets/Screenshots/img1.jpg" alt="Captura de pantalla 4" width="200"/>
 ## Tecnologías utilizadas
 
 - Dart
