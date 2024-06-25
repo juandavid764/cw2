@@ -6,8 +6,10 @@ Es una aplicación móvil que permite tomar pedidos de manera ágil, imprimir co
 
 ## Capturas de pantalla
 
-"Insertamos algunas imágenes con subtítulos"
-
+![Captura de pantalla 1](assets/Screenshots/img1.jpg)
+![Captura de pantalla 1](assets/Screenshots/img2.jpg)
+![Captura de pantalla 1](assets/Screenshots/img3.jpg)
+![Captura de pantalla 1](assets/Screenshots/img4.jpg)
 ## Tecnologías utilizadas
 
 - Dart
